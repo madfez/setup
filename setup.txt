@@ -1,0 +1,3 @@
+adminb
+adminusm2025
+https://ossdev3.usm.my/php8/izan/template/administrator/index.php
