@@ -1,3 +1,15 @@
 adminb
 adminusm2025
 https://ossdev3.usm.my/php8/izan/template/administrator/index.php
+
+Rujukan
+ppktadmin
+teamweb12345
+
+RCMO:  
+https://ossdev3.usm.my/php8/iwan/research/administrator
+
+CIC
+https://ossdev3.usm.my/php8/iwan/innovations/administrator/
+
+
